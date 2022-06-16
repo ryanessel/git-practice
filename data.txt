@@ -1,0 +1,3 @@
+Name: Ry
+Age: 31
+Favorite Color: green
