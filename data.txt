@@ -1,3 +1,4 @@
 Name: Ry
 Age: 31
 Favorite Color: green and blue
+Height: 5' 9"
